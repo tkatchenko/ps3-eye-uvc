@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>EyeControls</string>
+	<key>CFBundleIconFile</key>
+	<string>EyeControls.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.ps3eye.controls</string>
+	<key>CFBundleName</key>
+	<string>Eye Controls</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Measure frames from the PlayStation Eye when you run a capture test.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Check the Eye microphone during the capture test. No recording is saved.</string>
+</dict>
+</plist>

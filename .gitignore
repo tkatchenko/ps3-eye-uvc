@@ -1,0 +1,8 @@
+# Private lab workspace and original camera captures
+/work/
+/outputs/
+# Local firmware, application builds and macOS metadata
+/build/
+*.bin
+*.app/
+.DS_Store

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Eye Controls</title>
+  <rect width="256" height="256" rx="51" fill="#fff"/>
+  <g fill="none" stroke="#1e3c87" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 184C49 206 89 225 129 224S207 203 167 184"/>
+    <path d="M77 126L34 120Q22 118 22 106V56Q22 42 35 42H221Q234 42 234 56V106Q234 118 222 120L179 126 M24 92H231"/>
+    <path stroke-width="4" d="M49 57v18 M77 57v18 M105 57v18 M133 57v18 M161 57v18 M189 57v18 M211 57v18"/>
+    <path d="M87 166C73 135 93 105 126 105C161 104 181 138 169 164"/>
+    <circle cx="128" cy="158" r="35"/>
+    <circle cx="128" cy="158" r="17" stroke-width="5"/>
+  </g>
+</svg>
